@@ -1,4 +1,4 @@
-# Initialize an empty dictionary to store contact information
+# Initializing an empty dictionary to store contact information
 contacts = {}
 
 # Function to add a new contact
